@@ -2,6 +2,14 @@ let joinStats = true;  //可选加入统计。 加入统计不会收集任何隐
 //let webPath = 'https://raw.githubusercontent.com/jianjianai/NewBingGoGo-Web/master/src/main/resources'; //web页面地址，可以修改成自己的仓库来自定义前端页面 
 let webPath = 'https://raw.githubusercontent.com/Nothingness-Void/go-proxy-bingai/tree/master';
 //  let webPath = 'https://www.bing.com';
+
+//sydney.bing.com服务器iP：
+// 204.79.197.237
+// 13.107.21.237
+// 131.253.33.237
+// 13.107.22.23
+
+
 let serverConfig = {
     "h1": "NewBingGoGo",
     "h2": "简单开始和NewBing聊天",
