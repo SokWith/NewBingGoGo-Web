@@ -88,3 +88,14 @@ NewBingGoGo-web既可以是一个网页服务，也可以是NewBingGoGo的魔法
 
 ## 其他
 暂时停更一段时间，6月10日之后继续更新。
+
+
+{
+    "conversationId": "51D|BingProdUnAuthenticatedUsers|07080C412AF5DF573614FD25E28C94C6A55D4A8F0E7D896C1EB7B2DCD62E5ADF",
+    "clientId": "22E984E3F08C677022C095C4F15E668A",
+    "conversationSignature": "3UFgrQhcY64Y9aaMKGEC0wt+At0GlGYal7bc/tZmdiE=",
+    "result": {
+        "value": "Success",
+        "message": null
+    }
+}
