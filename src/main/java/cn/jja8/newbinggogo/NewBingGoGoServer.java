@@ -27,7 +27,7 @@ public class NewBingGoGoServer extends NanoWSD {
         new YamlConfig()
                 .load(new File("Cookies.yml"))
                 .as(Config.class)
-                .save(new File("Cookies.yml"));
+        //        .save(new File("Cookies.yml"));
         WebWork.init();
         //启动
         try{
